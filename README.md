@@ -1,6 +1,6 @@
 <!-- Title -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFABD8&width=435&lines=Welcome+to+Gaeunee's+Github" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFABD8&width=435&lines=Welcome+to+Gaeunee's+Github!" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -67,7 +67,12 @@
 
 <br>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kaeune3})](https://solved.ac/{handle})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={kaeune3})](https://solved.ac/{handle})
 
+<img src="http://mazandi.herokuapp.com/api?handle={kaeune3}&theme=warm"/>
 
 <h3 align="center">📫 Contact 📫</h3>
 
