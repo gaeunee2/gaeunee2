@@ -1,5 +1,7 @@
 <!-- Title -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Gaeunee's+Github)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFABD8&width=435&lines=Welcome+to+Gaeunee's+Github" alt="Typing SVG" /></a>
+</div>
 
 <br>
 
@@ -65,7 +67,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaeunee2&layout=compact)
+
 
 <h3 align="center">📫 Contact 📫</h3>
 
