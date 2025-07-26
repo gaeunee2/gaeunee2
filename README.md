@@ -48,24 +48,20 @@
 
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />
+
+  <br>
   
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity Hub-000000?style=for-the-badge&logo=Unity&logoColor=white" />
+
+  <br>
+  
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity Hub-000000?style=for-the-badge&logo=Unity&logoColor=white" />
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- Design -->
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JupyterNote-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
 
 <br>
