@@ -65,7 +65,7 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeunee2)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaeunee2&layout=compact)
 
 <h3 align="center">📫 Contact 📫</h3>
 
