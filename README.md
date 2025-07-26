@@ -67,12 +67,19 @@
 
 <br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kaeune3})](https://solved.ac/{handle})
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={kaeune3})](https://solved.ac/{handle})
+<h3 align="center">📊 Algorithm Profile 📊</h3>
 
-<img src="http://mazandi.herokuapp.com/api?handle={kaeune3}&theme=warm"/>
+<div align="center">
+  <a href="https://solved.ac/kaeune3">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kaeune3" alt="Solved.ac Profile"/>
+  </a>
+  <br>
+  <a href="https://solved.ac/kaeune3">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kaeune3" alt="Solved.ac Mini Badge"/>
+  </a>
+  <br>
+  <img src="http://mazandi.herokuapp.com/api?handle=kaeune3&theme=warm" alt="mazandi rank chart"/>
+</div>
 
 <h3 align="center">📫 Contact 📫</h3>
 
