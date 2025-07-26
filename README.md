@@ -67,7 +67,7 @@
 
 <br>
 
-<h3 align="center">📊 Algorithm Profile 📊</h3>
+<h3 align="center">📊 solved.ac 📊</h3>
 
 <div align="center">
   <a href="https://solved.ac/kaeune3">
