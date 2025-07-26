@@ -47,7 +47,7 @@
   <br>
 
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
 
   <br>
@@ -68,10 +68,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
-  </a>
-  <a href="kaeune3@gmail.com">
+  <a href="mailto:kaeune3@gmail.com">
     <img src="https://img.shields.io/badge/kaeune3@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </div>
