@@ -94,10 +94,6 @@
     <img src="https://img.shields.io/badge/kaeune3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br>
-  <a href="https://www.notion.so/Gaeunee-s-Portfolio-258c5074123880adba0afb47d2beefec?source=copy_link" target="_blank">
-    <img src="https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
-  <br>
   <a href="https://gaeunee.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
   </a>
